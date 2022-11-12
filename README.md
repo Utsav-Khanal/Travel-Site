@@ -1,6 +1,7 @@
 # Travel-Site
 #Click Here to See Live Site
 https://utsav-khanal.github.io/Travel-Site/
-![Screen Shot 2022-11-12 at 8 38 17 AM](https://user-images.githubusercontent.com/100432431/201453292-8c527612-d73a-4447-8b2c-b76572e721f2.png)
-![Screen Shot 2022-11-12 at 8 38 23 AM](https://user-images.githubusercontent.com/100432431/201453297-0f9370d3-6a3e-4a02-816e-0ca0064810b5.png)
-![Screen Shot 2022-11-12 at 8 38 30 AM](https://user-images.githubusercontent.com/100432431/201453299-e49b73af-ba91-48d0-a025-da0012852b40.png)
+
+![1](https://user-images.githubusercontent.com/100432431/201453332-37de37cf-51c0-44cc-88af-1dce77ea1d6b.png)
+![3](https://user-images.githubusercontent.com/100432431/201453338-26c8dc43-9735-41f9-a68c-3a857423f4d8.png)
+![2](https://user-images.githubusercontent.com/100432431/201453339-dde86809-a065-4fce-9c4e-1777324c736c.png)
